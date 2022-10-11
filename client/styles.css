@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+
+}
+
+nav{
+    font-size: 50px;
+    
+}
+
+body {
+    background-color: #020202;
+    opacity: 1;
+    background: repeating-linear-gradient( 45deg, #45b9f7, #45b9f7 13px, #020202 13px, #020202 65px );
+}
+
+header {
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background-color: aliceblue;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    width: 350px;
+    height: 350px;
+    background-color: aliceblue;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 30px;
+}
+
+button {
+    background-color: gray;
+    width: 100px;
+    height: 50px;
+    border: solid;
+    margin: 5px;
+}
+
+input[type='text'] {
+    width: 85%;
+    height: 30px;
+    border: solid;
+    border-bottom: 2px solid black;
+    color: black;
+    background-color: aliceblue;
+}
+
+#ratings-container {
+    width: 85%; 
+    justify-content: center;
+    align-items: center;
+}
+
+#radio-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#fragrance-container {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.fragrance-cover {
+    width:200px;
+    height: 300px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.fragrance-card {
+    background-color: whitesmoke;
+    width: 200px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 12px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.fragrance-title {
+    font-size: 20px;
+    margin: 5px 0;
+}
+
+.btns-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5px;
+}
+
+.btns-container > button {
+    width: 20px;
+}

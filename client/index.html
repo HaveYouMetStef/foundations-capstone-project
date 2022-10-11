@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Collection</title>
+    <link rel="stylesheet" href="/client/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav>My Collection</nav>
+        <!-- <h1>My Collection</h1> -->
+    </header>
+    <main>
+        <form>
+            <h2>Enter</h2>
+            <input
+                type='text'
+                id="fragranceName"
+                placeholder="What's the name of your fragrance" />
+            <input
+                type="text"
+                id="img"
+                placeholder="Paste your fragrance image URL" />
+            <section id="ratings-container">
+                <p>Rate the fragrance:</p>
+                <div id="radio-container">
+                    <label for="one">
+                        <input
+                        type="radio"
+                        name="ratings"
+                        value="1"
+                        id="one" />
+                        1
+                    </label>
+                    <label for="two">
+                        <input
+                        type="radio"
+                        name="ratings"
+                        value="2"
+                        id="two" />
+                        2
+                    </label>
+                    <label for="three">
+                        <input
+                        type="radio"
+                        name="ratings"
+                        value="3"
+                        id="three" />
+                        3
+                    </label>
+                    <label for="four">
+                        <input
+                        type="radio"
+                        name="ratings"
+                        value="4"
+                        id="four" />
+                        4
+                    </label>
+                    <label for="five">
+                        <input
+                        type="radio"
+                        name="ratings"
+                        value="5"
+                        id="five" />
+                        5
+                    </label>
+                </div>
+            </section>
+            <button>Add Fragrance</button>
+        </form>
+    </main>
+        <section id="fragrance-container"></section>
+
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

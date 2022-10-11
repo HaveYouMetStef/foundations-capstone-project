@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "fragranceName": "Aventus by Creed",
+        "rating": 5,
+        "imageURL": "https://cdn.shopify.com/s/files/1/0844/2647/products/mens-fragrances-aventus-3-3-oz-edp-for-men-1_500x.jpg?v=1607260100"
+    },
+    {
+        "id": 2,
+        "fragranceName": "Wall Street by Bond.9",
+        "rating": 5,
+        "imageURL": "https://m.media-amazon.com/images/I/51nO9aBEK2L.jpg"
+    },
+    {
+        "id": 3,
+        "fragranceName": "Blue De Chanel",
+        "rating": 4,
+        "imageURL": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/bleu-de-chanel-parfum-spray-3-4fl-oz--packshot-default-107180-8848376987678.jpg"
+    },
+    {
+        "id": 4,
+        "fragranceName": "Sauvage by Dior",
+        "rating": 4,
+        "imageURL": "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/20333214_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1&fmt=webp"
+    },
+    {
+        "id": 5,
+        "fragranceName": "Bad Boy by Carolina Herrera",
+        "rating": 3,
+        "imageURL": "https://media.ulta.com/i/ulta/2566630?w=720"
+    }
+]
