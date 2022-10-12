@@ -7,7 +7,7 @@ Technologies used: HTML, CSS, JavaScript, Node.JS, Express.JS, JSON
 
 I hope you all enjoy this project, any critiques would be appreciated. 
 
-ALT TEXT HERE](https://i9.ytimg.com/vi/zW33ftv9e7A/mq1.jpg?sqp=COyumJoG&rs=AOn4CLAMtolmMkKqfldFT9GnDmDTJpdl_w)](https://www.youtube.com/watch?v=zW33ftv9e7A)
+ALT TEXT HERE](ALT TEXT HERE](https://img.youtube.com/vi/=zW33ftv9e7A)])](https://www.youtube.com/watch?v=zW33ftv9e7A)
 
 
 Thanks,
