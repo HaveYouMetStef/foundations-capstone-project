@@ -7,6 +7,8 @@ Technologies used: HTML, CSS, JavaScript, Node.JS, Express.JS, JSON
 
 I hope you all enjoy this project, any critiques would be appreciated. 
 
+Project Demo: https://www.loom.com/share/863da8654e6d4fae9f5e4e0395396f55
+
 Thanks,
 
 Stef Castillo
