@@ -7,7 +7,8 @@ Technologies used: HTML, CSS, JavaScript, Node.JS, Express.JS, JSON
 
 I hope you all enjoy this project, any critiques would be appreciated. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zW33ftv9e7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zW33ftv9e7A/0.jpg)](https://www.youtube.com/watch?v=zW33ftv9e7A)
+
 
 
 Thanks,
